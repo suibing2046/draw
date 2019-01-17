@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/suibing2046/draw/blob/master/DrawingOnLine.ipa</string>
+					<string>https://raw.githubusercontent.com/suibing2046/draw/master/DrawingOnLine.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://github.com/suibing2046/draw/blob/master/draw.png</string>
+					<string>https://raw.githubusercontent.com/suibing2046/draw/master/draw.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
